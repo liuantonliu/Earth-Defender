@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=actor
+comment0.target=boolean\ isVisuallyIntersecting(greenfoot.Actor)
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Collisions\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=1
